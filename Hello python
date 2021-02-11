@@ -5,3 +5,6 @@ void main()
 print|"hello world...!!!");
 }
 }
+printf|'/n this is the basic c and python program"|;
+
+}
